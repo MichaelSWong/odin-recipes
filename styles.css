@@ -1,0 +1,15 @@
+/* Index */
+.main {
+  color: rgb(255, 127, 255);
+  background-color: grey;
+  text-align: center;
+}
+img {
+  height: auto;
+}
+
+/* Recipes */
+h3 {
+  color: brown;
+  font-family: Arial, Helvetica, sans-serif;
+}
