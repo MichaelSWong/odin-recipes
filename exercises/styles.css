@@ -7,12 +7,14 @@
 
 /* class-id-selectors */
 .odd {
-  background-color: rgb(247, 152, 168);
-  font-family: Verdana, Geneva, DejaVu Sans, sans-serif;
+  background-color: rgb(255, 167, 167);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
-#third {
+
+.oddly-cool {
   font-size: 24px;
 }
+
 #second {
   color: blue;
   font-size: 36px;
